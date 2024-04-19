@@ -108,5 +108,6 @@ Previously studied UX/UI and Product Design under the School of Interactive Arts
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&color=2c2830&logoColor=AAA&style=flat-square)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&color=2c2830&logoColor=AAA&style=flat-square)
 
-    
+#### other stats!
+![views](https://komarev.com/ghpvc/?username=randypanopio)    
 </details>
