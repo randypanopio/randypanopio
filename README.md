@@ -1,6 +1,6 @@
-#### Howdy! 🙋‍♂️ My name is Randy 
+### Howdy! 🙋‍♂️ My name is Randy 
 
-###### Glad to have you on my page! Currently studying Computer Science at Simon Fraser University. 
+#### Glad to have you on my page! Currently studying Computer Science at Simon Fraser University. 
 Previously studied UX/UI and Product Design under the School of Interactive Arts & Technology at SFU.
 
 - 🛠️ currently breaking `.py`, `.sh`, `.cs`, `.yaml`, `makefile`, `.asm`, `.js` files
