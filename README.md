@@ -4,7 +4,7 @@
 Previously studied UX/UI and Product Design under the School of Interactive Arts & Technology at SFU.
 
 - 🛠️ currently breaking `.py`, `.sh`, `.cs`, `.yaml`, `makefile`, `.asm`, `.js` files
-- 🗣️ actively speaking at **Career Change Communities**, **CS Student Societies**, **GDL League** 
+- 🗣️ active member at **Career Change Communities**, **CS Student Societies**, **GDL League** 
 - 🐠 `excited` about **automation**, **system architecture**, **cli tools**, **product design**, **design evaluation**
 
 <details>
